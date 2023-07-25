@@ -1,0 +1,12 @@
+com.testpaper
+com.testpaper.controller
+com.testpaper.Exception
+com.testpaper.helper
+com.testpaper.model
+com.testpaper.repository
+com.testpaper.secure.config
+com.testpaper.secure.config.model
+com.testpaper.secure.config.service
+com.testpaper.secure.controller
+com.testpaper.service
+com.testpaper.service.impl
